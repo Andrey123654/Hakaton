@@ -1,0 +1,11 @@
+{
+  "submission.csv (базовое)": 0.991464,
+  "submission_blend4.csv": 0.994416,
+  "submission_blend5.csv": 0.994089,
+  "submission_unified.csv": 0.99344,
+  "improved_v5/submission_v5_refit.csv": 0.995076,
+  "improved_v10/submission_v10.csv": 0.995404,
+  "submission_net_final.csv (DNS/TLS/HTTP)": 0.995733,
+  "submission_net_full.csv (DNS/TLS/HTTP/RDAP/IP)": 0.996062,
+  "submission_final_choice.csv (смесь с линией A)": 0.995404
+}

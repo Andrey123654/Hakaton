@@ -1,0 +1,15 @@
+# Зависимости задачи обнаружения фишинговых URL.
+# Версии зафиксированы для воспроизводимости результата на платформе Cyberhackai.
+pandas==2.3.3
+numpy==2.0.2
+scikit-learn==1.6.1
+scipy==1.13.1
+catboost==1.2.10
+lightgbm==4.6.0        # опционально; на macOS нужен: brew install libomp
+matplotlib==3.9.4
+seaborn==0.13.2
+tqdm==4.70.1
+joblib==1.5.3
+nbformat==5.10.4
+# rapidfuzz ускоряет расчёт расстояния Левенштейна (не обязательно)
+rapidfuzz>=3.9
